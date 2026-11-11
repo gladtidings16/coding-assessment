@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+	fsmonitor = node .git/hooks/pre-update.sample
+[user]
+	name = ericgrahamdev-rgb
+	email = ercigraham.dev@gmail.com

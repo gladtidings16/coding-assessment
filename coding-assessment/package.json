@@ -1,0 +1,23 @@
+{
+  "name": "meridian-control",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Starter kit for a 15-minute fullstack coding assessment (auth workflow or MongoDB + sockets). API is FastAPI.",
+  "workspaces": [
+    "server",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,green \"npm run dev -w server\" \"npm run dev -w frontend\"",
+    "dev:server": "npm run dev -w server",
+    "dev:web": "npm run dev -w frontend",
+    "build": "npm run build -w server && npm run build -w frontend",
+    "db:reset": "npm run db:reset -w server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

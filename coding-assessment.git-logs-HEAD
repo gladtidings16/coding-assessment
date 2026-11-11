@@ -1,0 +1,44 @@
+0000000000000000000000000000000000000000 fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791786417 -0400	commit (initial): initial commit
+fcf0a22a9444c7e604a7246c7dae5de45366807f 0000000000000000000000000000000000000000 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791786462 -0400	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791786462 -0400	Branch: renamed refs/heads/master to refs/heads/main
+fcf0a22a9444c7e604a7246c7dae5de45366807f fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791786809 -0400	checkout: moving from main to task/mongodb
+fcf0a22a9444c7e604a7246c7dae5de45366807f 394466836ea083cac1e3856f776cd1776dd96984 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791787400 -0400	commit: update code for task2
+394466836ea083cac1e3856f776cd1776dd96984 fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791787789 -0400	checkout: moving from task/mongodb to main
+fcf0a22a9444c7e604a7246c7dae5de45366807f 394466836ea083cac1e3856f776cd1776dd96984 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791787859 -0400	checkout: moving from main to task/mongodb
+394466836ea083cac1e3856f776cd1776dd96984 fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791787936 -0400	checkout: moving from task/mongodb to main
+fcf0a22a9444c7e604a7246c7dae5de45366807f fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791788103 -0400	checkout: moving from main to task/authflow
+fcf0a22a9444c7e604a7246c7dae5de45366807f 9c25e67151566d56f09c9d103d4794c0ab9a73db ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791788482 -0400	commit: update code for task1
+9c25e67151566d56f09c9d103d4794c0ab9a73db fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791788490 -0400	checkout: moving from task/authflow to main
+fcf0a22a9444c7e604a7246c7dae5de45366807f 9c25e67151566d56f09c9d103d4794c0ab9a73db ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791802955 -0700	checkout: moving from main to task/authflow
+9c25e67151566d56f09c9d103d4794c0ab9a73db 394466836ea083cac1e3856f776cd1776dd96984 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791802970 -0700	checkout: moving from task/authflow to task/mongodb
+394466836ea083cac1e3856f776cd1776dd96984 fcf0a22a9444c7e604a7246c7dae5de45366807f ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803004 -0700	checkout: moving from task/mongodb to main
+fcf0a22a9444c7e604a7246c7dae5de45366807f 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803640 -0700	commit: update node python version limit
+271a03d53cc73a3cf9985acfc3a5995150cf584b 9c25e67151566d56f09c9d103d4794c0ab9a73db ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803736 -0700	checkout: moving from main to task/authflow
+9c25e67151566d56f09c9d103d4794c0ab9a73db 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803776 -0700	commit: update node/python version
+4760da9606029ee65b4375fc9f6f07014905f65b 394466836ea083cac1e3856f776cd1776dd96984 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803790 -0700	checkout: moving from task/authflow to task/mongodb
+394466836ea083cac1e3856f776cd1776dd96984 1296a02373377ae7d8231a096ef6f5d9267d52b6 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803847 -0700	commit: update node/python version
+1296a02373377ae7d8231a096ef6f5d9267d52b6 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791803857 -0700	checkout: moving from task/mongodb to main
+271a03d53cc73a3cf9985acfc3a5995150cf584b 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791804962 -0700	checkout: moving from main to task/authflow
+4760da9606029ee65b4375fc9f6f07014905f65b 1296a02373377ae7d8231a096ef6f5d9267d52b6 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791804999 -0700	checkout: moving from task/authflow to task/mongodb
+1296a02373377ae7d8231a096ef6f5d9267d52b6 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791805021 -0700	checkout: moving from task/mongodb to main
+271a03d53cc73a3cf9985acfc3a5995150cf584b 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791805318 -0700	checkout: moving from main to task/authflow
+4760da9606029ee65b4375fc9f6f07014905f65b 1296a02373377ae7d8231a096ef6f5d9267d52b6 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791805331 -0700	checkout: moving from task/authflow to task/mongodb
+1296a02373377ae7d8231a096ef6f5d9267d52b6 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791805358 -0700	checkout: moving from task/mongodb to main
+271a03d53cc73a3cf9985acfc3a5995150cf584b 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791911014 +0300	checkout: moving from main to task/authflow
+4760da9606029ee65b4375fc9f6f07014905f65b 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791911102 +0300	checkout: moving from task/authflow to main
+271a03d53cc73a3cf9985acfc3a5995150cf584b 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791911129 +0300	checkout: moving from main to task/authflow
+4760da9606029ee65b4375fc9f6f07014905f65b 271a03d53cc73a3cf9985acfc3a5995150cf584b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791911137 +0300	checkout: moving from task/authflow to main
+271a03d53cc73a3cf9985acfc3a5995150cf584b 848a38d6bf49fb78a6f735d75c264c9fd90620ad ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967638 +0300	commit: update task.md
+848a38d6bf49fb78a6f735d75c264c9fd90620ad 4760da9606029ee65b4375fc9f6f07014905f65b ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967664 +0300	checkout: moving from main to task/authflow
+4760da9606029ee65b4375fc9f6f07014905f65b 0e6d319a485379dfcb84d52c9394314b196e5434 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967704 +0300	commit: update task.md
+0e6d319a485379dfcb84d52c9394314b196e5434 1296a02373377ae7d8231a096ef6f5d9267d52b6 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967712 +0300	checkout: moving from task/authflow to task/mongodb
+1296a02373377ae7d8231a096ef6f5d9267d52b6 ab57fc780fea6b8c0e1c899fce9b1605532a8133 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967725 +0300	commit: update task.md
+ab57fc780fea6b8c0e1c899fce9b1605532a8133 848a38d6bf49fb78a6f735d75c264c9fd90620ad ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967731 +0300	checkout: moving from task/mongodb to main
+848a38d6bf49fb78a6f735d75c264c9fd90620ad 6435e6f5d20ca251071039afdc1317a967a0a4e9 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967870 +0300	commit: update task.md(2)
+6435e6f5d20ca251071039afdc1317a967a0a4e9 ab57fc780fea6b8c0e1c899fce9b1605532a8133 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967886 +0300	checkout: moving from main to task/mongodb
+ab57fc780fea6b8c0e1c899fce9b1605532a8133 3a8ce7f5bca3251002afb7cbad22d8dbb1422b55 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967908 +0300	commit: update task.md(2)
+3a8ce7f5bca3251002afb7cbad22d8dbb1422b55 0e6d319a485379dfcb84d52c9394314b196e5434 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967921 +0300	checkout: moving from task/mongodb to task/authflow
+0e6d319a485379dfcb84d52c9394314b196e5434 e65223e50746b15d4454e81d538b1647b34f891c ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967951 +0300	commit: update task.md(2)
+e65223e50746b15d4454e81d538b1647b34f891c 6435e6f5d20ca251071039afdc1317a967a0a4e9 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1791967957 +0300	checkout: moving from task/authflow to main
+6435e6f5d20ca251071039afdc1317a967a0a4e9 e65223e50746b15d4454e81d538b1647b34f891c ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1792052944 -0400	checkout: moving from main to task/authflow
+e65223e50746b15d4454e81d538b1647b34f891c 6435e6f5d20ca251071039afdc1317a967a0a4e9 ericgrahamdev-rgb <ercigraham.dev@gmail.com> 1792061007 -0400	checkout: moving from task/authflow to main

@@ -1,0 +1,13 @@
+{
+  "name": "@meridian/server",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "python": ">3.12"
+  },
+  "scripts": {
+    "dev": "if [ -x .venv/bin/python ]; then exec .venv/bin/python -m app; else exec python3 -m app; fi",
+    "start": "if [ -x .venv/bin/python ]; then exec .venv/bin/python -m app --no-reload; else exec python3 -m app --no-reload; fi",
+    "db:reset": "if [ -x .venv/bin/python ]; then exec .venv/bin/python -m app.db.reset; else exec python3 -m app.db.reset; fi"
+  }
+}
